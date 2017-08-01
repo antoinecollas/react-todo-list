@@ -1,1 +1,1 @@
-This project is a to-do list. It is aimed to learn REACT JS.
+This project is a to-do list. It is aimed to learn REACT JS and redux.
